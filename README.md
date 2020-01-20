@@ -1,2 +1,3 @@
-# Long-Line-Transceiver
-LTC1487 Breakout Board
+# Long Line Transceiver
+
+LTC1487 Breakout Board.
