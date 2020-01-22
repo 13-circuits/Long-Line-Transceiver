@@ -1,3 +1,3 @@
 # Long Line Transceiver
 
-LTC1487 Breakout Board.
+LTC6820 Breakout Board.
